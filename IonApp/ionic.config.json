@@ -1,5 +1,7 @@
 {
   "name": "IonApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "react"
 }
